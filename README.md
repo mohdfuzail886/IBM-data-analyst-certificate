@@ -7,7 +7,7 @@ The certification demonstrates my ability to apply key **data analytics skills**
 ---
 
 ## 📑 Certificate
-- You can view my certificate here: [IBM Data Analyst Professional Certificate]([./IBM_Data_Analyst_Certificate.pdf](https://github.com/mohdfuzail886/IBM-data-analyst-certificate))
+- You can view my certificate here: [IBM Data Analyst Professional Certificate](./IBM_Data_Analyst_Certificate.pdf)
 
 ---
 
@@ -29,7 +29,7 @@ It also complements my hands-on projects available in my other GitHub repositori
 ## 📌 Next Steps
 I’m applying these skills to real-world projects, such as:
 - Sales Data Analysis
-- Risk Analysis
+- Risk Analytics
 - Interactive Power BI Dashboards  
 
 Check out my other repositories for project work!  
