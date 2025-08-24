@@ -7,7 +7,7 @@ The certification demonstrates my ability to apply key **data analytics skills**
 ---
 
 ## 📑 Certificate
-- You can view my certificate here: [IBM Data Analyst Professional Certificate](./IBM_Data_Analyst_Certificate.pdf)
+- You can view my certificate here: [IBM Data Analyst Professional Certificate](./IBM_certificate.png)
 
 ---
 
